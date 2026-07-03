@@ -19,4 +19,4 @@ If you want to use parts of this pack in your own project, please ask me first o
 This is an unofficial resource pack made to work with **Fresh Animations**.
 
 **Fresh Animations** belongs to **@FreshLX** and is not included in this resource pack.  
-Please download Fresh Animations separately from its official Modrinth page.
+Please download Fresh Animations separately from its official Modrinth page!
